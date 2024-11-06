@@ -9,5 +9,5 @@ In 2024 I quit my career in sales and enrolled in a 10 months Full Stack Develop
 - 🔭 I’m currently working on my first JS project.
 - 💬 Ask me about my futute travel plans. :)
 - 📫 How to reach me: olgaklochan1@gmail.com
-- ⚡ Fun fact: use to be a mixologist, can elevate any coltail to the next level.
+- ⚡ Fun fact: used to be a mixologist, can elevate any cocktail to the next level.
 
